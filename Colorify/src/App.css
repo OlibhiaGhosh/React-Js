@@ -1,0 +1,18 @@
+.colorbox{
+    width: 245px;
+    height: 245px;
+    border: 2px solid #090000;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 2px;
+}
+.button{
+    border: #090000 solid 2px;
+    border-radius: 30%;
+    margin-top: 2rem;
+    padding: 0.5rem;
+}
